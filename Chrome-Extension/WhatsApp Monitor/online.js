@@ -59,7 +59,7 @@ function onotif(user) {
   else{
         var xhr = new XMLHttpRequest();
     xhr.open("POST", nkey,true);
-    xhr.send("📱WhatsApp Monitor: "+user+" is Online")
+    xhr.send("📱WhatsApp Monitor: "+user+" is ONLINE")
 
   }
 
